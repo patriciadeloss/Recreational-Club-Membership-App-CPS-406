@@ -19,7 +19,10 @@ The Recreational Club Membership App (RCM for short) is an app that helps to fac
 - Create financial statements
 ### Technologies Used
 - HTML
+- CSS
 - JavaScript
+- Node.JS
+- Firebase
 ### Setup Instructions
 1. Clone the repository to your local machine.
 2. Navigate to the appropriate directory.
