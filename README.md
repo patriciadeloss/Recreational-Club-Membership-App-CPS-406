@@ -13,8 +13,9 @@ The Recreational Club Membership App (RCM for short) is an app that helps to fac
 - Receive payments
 - Schedule sessions
 ### Club Managers
-- Member management
+- Member management (track attendees, member payments, etc.)
 - Track finances
+- Make payments to coaches and rent
 - Create financial statements
 
 
