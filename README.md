@@ -7,7 +7,7 @@ Group members: Sharleen Chebet, Patricia Delos Santos, Jace Lee, Maleeha Mirza, 
 The Recreational Club Membership App (RCM for short) is an app that helps to facilitate the management of finances of a club and is available for members, coaches, and club managers.
 ### Members
 - Track payments
-- Allow members to pay in advance
+- Can pay in advance or just simply pay on time
 - Receive reminders and loyalty discounts 
 ### Coaches
 - Receive payments
