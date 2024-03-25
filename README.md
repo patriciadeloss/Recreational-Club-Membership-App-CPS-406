@@ -1,4 +1,5 @@
 This is a project for CPS 406 - Introduction to Software Engineering.
+
 Group members: Sharleen Chebet, Patricia Delos Santos, Jace Lee, Maleeha Mirza, Suboohi Sayeed
 
 # Recreational-Club-Membership-App-CPS-406
